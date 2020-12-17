@@ -1,2 +1,2 @@
 # STN-fitter
-A STN where the network tries to best overlap two arbitrary images
+A Spatial Transformer Network (STN) where that tries to best overlap two arbitrary images. 
